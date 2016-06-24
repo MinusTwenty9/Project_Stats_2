@@ -1,0 +1,6 @@
+E:\Dokumente\GitHub\MinusTwenty9\Project_Stats_2\bin\Debug\Project_Stats_2.exe
+E:\Dokumente\GitHub\MinusTwenty9\Project_Stats_2\bin\Debug\Project_Stats_2.pdb
+E:\Dokumente\GitHub\MinusTwenty9\Project_Stats_2\obj\x86\Debug\Project_Stats_2.Properties.Resources.resources
+E:\Dokumente\GitHub\MinusTwenty9\Project_Stats_2\obj\x86\Debug\Project_Stats_2.csproj.GenerateResource.Cache
+E:\Dokumente\GitHub\MinusTwenty9\Project_Stats_2\obj\x86\Debug\Project_Stats_2.exe
+E:\Dokumente\GitHub\MinusTwenty9\Project_Stats_2\obj\x86\Debug\Project_Stats_2.pdb
